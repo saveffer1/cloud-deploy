@@ -6,7 +6,7 @@
    $server = "localhost";
    $username = "root";
    $password = "";
-   $db = "project_cloud";
+   $db = "cloud_project";
    
 
 
